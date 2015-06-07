@@ -29,4 +29,11 @@ para combinar de muchas maneras, lo que nos permite decir muchas cosas diferente
 lenguajes de programación, aunque típicamente con  menos flexibilidad  gramatical,
 siguen un principio similar.
 
-(((JavaScript disponibilidad de))) (((informática casual)))
+(((JavaScript disponibilidad de))) (((informática casual)))La computación
+Casual se ha convertido en mucho más generalizado en los últimos 20 años, y
+las  interfaces basadas en  lenguajes, que antes eran la forma predeterminada
+en que las personas interactuaban con las computadoras, en gran medida han sido
+reemplazadas con interfaces gráficas. Pero todavía están allí, si usted sabe
+dónde buscar Uno esos lenguaje, JavaScript está integrado en casi todas
+las web ((navegadores)) y por lo tanto disponible en casi todos los
+dispositivos de consumo.
