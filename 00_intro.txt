@@ -28,3 +28,5 @@ que hace uso de nuestro talento para el lenguaje: enseñar a la máquina, un len
 para combinar de muchas maneras, lo que nos permite decir muchas cosas diferentes. Los
 lenguajes de programación, aunque típicamente con  menos flexibilidad  gramatical,
 siguen un principio similar.
+
+(((JavaScript disponibilidad de))) (((informática casual)))
