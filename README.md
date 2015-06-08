@@ -1,9 +1,9 @@
 # Eloquent JavaScript
 
-These are the sources used to build the second edition of Eloquent
-JavaScript (http://eloquentjavascript.net).
+Estos son, los codigos de fuentes utilizados para construir la segunda edición de Elocuente
+ JavaScript (http://eloquentjavascript.net).
 
-Feedback welcome, in the form of issues and pull requests.
+Los Comentarios son bienvenidos, en forma de problemas y pull requests.
 
 ## Building
 
@@ -11,13 +11,15 @@ Feedback welcome, in the form of issues and pull requests.
     apt-get install asciidoc inkscape
     make html
 
-For OSX, you can use port or brew to install the asciidoc package.
+Para OSX, usted puede utilizar port o brew para instalar el paquete asciidoc.
 
-To build the PDF file:
+Para generar el archivo PDF:
 
     apt-get install texlive texlive-xetex texlive-fonts-extra
     make book.pdf
 
-To build the ePub book:
+Para generar el libro ePub:
 
     make book.epub
+
+
