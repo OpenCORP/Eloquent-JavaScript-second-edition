@@ -37,3 +37,79 @@ reemplazadas con interfaces gráficas. Pero todavía están allí, si usted sabe
 dónde buscar Uno esos lenguaje, JavaScript está integrado en casi todas
 las web ((navegadores)) y por lo tanto disponible en casi todos los
 dispositivos de consumo.
+
+indexsee:[web browser,browser]Este libro tiene la intención de hacer que 
+usted se familiarice bastante con este lenguaje para ser capaz de
+hacer que un equipo haga lo que usted quiera.
+
+
+
+== On programming ==
+
+[quote, Confucius]
+____
+(((Confucius)))Yo no ilumino aquellos que no están con ganas de aprender,
+y no  despiertan aquellos deseos de dar una explicación
+a sí mismos.Si he presentado una esquina de la plaza   y no pueden
+volver a mí las otras tres, Yo no debería repasar los puntos de nuevo.
+____
+
+
+(((programación, dificultad de)))Además de explicar JavaScript, yo también
+presentare los principios básicos de la programación. Programación,
+resulta, difícil. Las reglas fundamentales son normalmente simples y
+claras. Pero los programas construidos en la parte superior de estas
+reglas tienden a ser complejas suficiente para introducir sus propias
+reglas y complejidad. Usted está construyendo su propio laberinto, en
+cierto modo,y que sólo podría perderse en el.
+
+
+(((learning)))Habrá veces, al leer este libro se sienta terriblemente
+frustrado. Si usted es nuevo en la programación, habrá una gran cantidad
+de material nuevo  a digerir. Gran parte de este material luego serán _combinado_
+en formas que que requieren haga conexiones adicionales.
+
+para seguir el libro, no saltes a conclusiones sobre tu propia
+capacidad. Usted está muy bien—sólo tiene que mantenerse,en
+el. Tómese un descanso, vuelve a leer un poco de material, y
+_siempre_ asegúrese de leer y entender los ejemplos de programas
+y ((ejercicios)). Aprender es un trabajo duro, pero todo lo usted
+aprende es tuyo y  hará que el aprendizaje posterior sea más fácil.
+
+[quote, Joseph Weizenbaum, Computer Power and Human Reason]
+____
+(((Weizenbaum+++,+++ Joseph)))El programador de computadoras es un creador
+de universos para el que [sic] sea el único responsable. Universos de
+complejidadvirtualmente ilimitado pueden ser creados en forma de
+programas de computadora.
+____
+
+(((program,nature of)))(((data)))Un programa es muchas cosas. Es una
+pieza de texto escrito por un programador, es la fuerza dirigente que
+hace que la computadora haga lo que hace, son datos en la memoria de
+la computadora, sin embargo, controla las acciones realizadas en esta
+misma memoria. Las analogías que tratan de comparar los programas a
+los objetos que no son familiares suelen quedarse corto. Un montaje
+superficial es el de un lotes—máquinas de partes separadas tienden
+a estar involucrados, y para hacer que el conjunto cosas en el
+momento, tenemos que considerar las formas en que estas partes
+se interconectan y contribuyen a la operación de todo.
+
+(((computer)))Una computadora es una máquina construida para actuar como
+un host para estas máquinas inmateriales. Las computadoras, por sí
+mismas  solo pueden hacer cosas estúpidamente simples. La razón por
+la que son tan útil es que hacen estas cosas a una velocidad increíblemente
+alta. Un programa ingeniosamente puede combinar un número enorme
+de estas acciones simples con el fin de hacer las cosas muy complicadas.
+
+(((programming,joy of)))Para algunos de nosotros, la escritura de programas
+de ordenador es un juego fascinante. Un programa es un edificio de
+pensamiento. Cuestan menos para construir, es sin peso, y crece
+fácilmente escribiendo bajo nuestras manos.
+
+Pero sin cuidado, el tamaño de un programa y la ((complejidad)) crecerá
+fuera de control, confundiendo incluso, a la persona que lo creó. Mantener
+programas bajo control es el principal problema de programación. Cuando un
+programa funciona, es hermoso. El arte de la programación es la habilidad
+de controlar la complejidad. El gran programa es suave— simple en su
+complejidad.
